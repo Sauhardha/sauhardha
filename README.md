@@ -12,7 +12,9 @@ I'm Sauhardha - located in Sydney Australia 🇦🇺, I create websites oriented
 • UI / UX
 • WEB HOST
 
-(https://github.com/Sauhardha/Sauhardha/blob/main/giphy.gif?raw=true) 
+![Web Designer / Developer](https://github.com/Sauhardha/Sauhardha/blob/main/giphy.gif?raw=true)
+
+
 
 ## Let's communicate!
 
