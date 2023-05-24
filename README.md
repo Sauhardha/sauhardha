@@ -7,10 +7,13 @@
 I'm Sauhardha - located in Sydney Australia 🇦🇺, I create websites oriented towards properly representing small businesses & organisations online. I really enjoy learning the web design process, from the user interface & aesthetics to coding the most effective solution. 
 
 ## Skills: 
-• Javascript
 • HTML / CSS
+• Tailwind CSS
 • UI / UX
-• WEB HOST
+• SEO
+• REACT
+• Javascript
+• WEB HOSTING
 
 ![Web Designer / Developer](https://github.com/Sauhardha/Sauhardha/blob/main/giphy.gif?raw=true)
 
