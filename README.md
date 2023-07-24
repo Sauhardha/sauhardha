@@ -22,6 +22,6 @@ I'm Sauhardha - located in Sydney Australia 🇦🇺, I create websites oriented
 ## Let's communicate!
 
 - 💬 Ask me anything...
-- 📫 How to reach me: sauhardhap@hotmail.com
+- 📫 How to reach me: sauhardha.dev@gmail.com
 
 
